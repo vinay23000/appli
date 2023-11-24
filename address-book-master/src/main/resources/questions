@@ -1,0 +1,3 @@
+Q1 = How many males are in the address book?; sex.counter; MALE
+Q2 = Who is the oldest person in the address book?; max.age.finder
+Q3 = How many days older is Bill than Paul?; age.comparator; Bill McKnight; Paul Robinson
